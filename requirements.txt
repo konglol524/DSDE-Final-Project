@@ -10,3 +10,5 @@ geopy
 pycountry
 spacy
 fuzzywuzzy
+timezonefinder
+folium
