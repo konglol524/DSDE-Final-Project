@@ -5,3 +5,8 @@ scipy
 bs4
 plotly
 streamlit
+lxml
+geopy
+pycountry
+spacy
+fuzzywuzzy

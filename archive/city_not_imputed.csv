@@ -173,7 +173,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 172,Islamabad,Pakistan,17581,615,33.6938118,73.0651511
 173,Florence,Italy,18909,546,43.7697955,11.2556404
 174,Bicocca,Italy,14230,444,44.8837197,7.4637407
-175,Batticoloa,Sri Lanka,1900,137,7.5554942,80.7137847
+175,Batticoloa,Sri Lanka,1900,137,,
 176,Zurich,Switzerland,19479,581,47.3744489,8.5410422
 177,Colombo,Sri Lanka,5270,281,6.9388614,79.8542005
 178,Frascati,Italy,16958,535,41.8082452,12.6803684
@@ -302,7 +302,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 301,Pitsanulok,Thailand,1692,271,16.9779975,100.3848239
 302,Chengdu,China,2767,82,30.6598628,104.0633717
 303,Siddipet,India,6,1,18.005585099999998,78.89611304969961
-304,Kattankulathur,India,527,19,22.3511148,78.6677428
+304,Kattankulathur,India,527,19,,
 305,Bern,Switzerland,2727,65,46.9484742,7.4521749
 306,Beer Sheva,Israel,2139,19,31.2457442,34.7925181
 307,Ladkrabang Bangkok,Thailand,1832,288,13.7273509,100.76590701152774
@@ -311,7 +311,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 310,San José,Costa Rica,5,2,9.9325427,-84.0795782
 311,Seongnam,South Korea,677,28,37.4201556,127.1262092
 312,Birmingham,United Kingdom,5625,84,52.4796992,-1.9026911
-313,Ponzan,Poland,5,1,52.215933,19.134422
+313,Ponzan,Poland,5,1,,
 314,Miami,United States,17015,415,25.7741728,-80.19362
 315,Copenhagen,Denmark,4263,94,55.6867243,12.5700724
 316,Olsztyn WM,Poland,96,12,53.77664395,20.477753092192152
@@ -498,7 +498,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 497,Hubli,India,92,2,15.3518378,75.1379848
 498,Kunming,China,1602,30,25.0363006,102.7086139
 499,Tampa,United States,1710,18,27.9477595,-82.458444
-500,"Thataguni, Bangalore",India,0,1,22.3511148,78.6677428
+500,"Thataguni, Bangalore",India,0,1,,
 501,Samut Sakhon,Thailand,370,24,13.5708192,100.2585874
 502,Si Racha,Thailand,212,51,13.1655011,100.9256709
 503,New Taipei City,Taiwan,317,31,25.02679015,121.47107843163
@@ -532,7 +532,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 531,Lucknow,India,2390,31,26.8381,80.9346001
 532,Taiyuan,China,1783,9,37.870009,112.5452739
 533,Datong,China,0,1,40.0919817,113.2951122
-534,Gurusar Sadhar,India,175,13,22.3511148,78.6677428
+534,Gurusar Sadhar,India,175,13,,
 535,Sakon Nakhon,Thailand,240,44,17.1904453,103.9730898
 536,Almaty,Kazakhstan,529,27,43.2363924,76.9457275
 537,Amritsar,India,96,12,31.6356659,74.8787496
@@ -722,7 +722,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 721,Marburg,Germany,1200,37,50.8090106,8.7704695
 722,Creteil,France,2575,28,48.7771486,2.4530731
 723,Bad Mergentheim,Germany,2,1,49.490532,9.7730692
-724,"Muang District,Nakhon Ratchasima",Thailand,0,1,14.8971921,100.83273
+724,"Muang District,Nakhon Ratchasima",Thailand,0,1,,
 725,Murcia,Spain,1051,9,37.9923795,-1.1305431
 726,South Jakarta,Indonesia,4,4,-6.28381815,106.80486325728526
 727,Glendale,United States,14,5,34.1469416,-118.2478471
@@ -748,7 +748,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 747,Haifa,Israel,920,29,32.8191218,34.9983856
 748,Risskov,Denmark,53,1,56.2017679,10.2419582
 749,Newcastle,United Kingdom,3705,38,54.9738474,-1.6131572
-750,Riejka,Croatia,53,1,45.3658443,15.6575209
+750,Riejka,Croatia,53,1,,
 751,Belmopan,Belize,53,1,17.250199,-88.770018
 752,Dakar,Senegal,343,24,14.693425,-17.447938
 753,Mogadishu,Somalia,63,2,2.0349312,45.3419183
@@ -879,12 +879,12 @@ city_id,city,country,citation_sum,p_count,lat,lon
 878,Hachioji,Japan,1282,30,35.6663595,139.3163653
 879,Surin,Thailand,24,5,15.0610142,103.7613123
 880,Asan,South Korea,91,3,36.7899498,127.0026769
-881,Abu Dis,Palestine,20,3,31.7621153,-95.6307891
+881,Abu Dis,Palestine,20,3,,
 882,Jimma,Ethiopia,193,4,7.6756152,36.8478779
 883,Sacramento,United States,1171,10,38.5810606,-121.493895
 884,Port,Trinidad and Tobago,20,2,10.6472492,-61.51139452899346
 885,Sant Boi de Llobregat,Spain,143,10,41.3459033,2.0413673
-886,Ilishan-Remo,Nigeria,85,3,9.6000359,7.9999721
+886,Ilishan-Remo,Nigeria,85,3,,
 887,Malmo,Sweden,215,14,55.6052931,13.0001566
 888,Male,Maldives,20,2,4.1779879,73.5107387
 889,Dresden,Germany,1744,29,51.0493286,13.7381437
@@ -943,7 +943,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 942,Nakhon Nayok,Thailand,17,14,14.1494474,101.2177459
 943,Peechi,India,0,1,10.52595,76.3567714
 944,Palma,Spain,178,8,39.58125245,2.7092683401782343
-945,Banchiao,Taiwan,32,3,23.5983227,120.83537694479215
+945,Banchiao,Taiwan,32,3,,
 946,Stavanger,Norway,260,9,58.9699675,5.7318101
 947,Pollachi,India,14,1,10.6588234,77.00873
 948,Huzhou,China,1,1,30.8942995,120.0851114
@@ -972,7 +972,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 971,Trnava,Slovakia,52,6,48.3767652,17.5858175
 972,Wellington,New Zealand,367,33,-41.2887953,174.7772114
 973,Abakaliki,Nigeria,173,8,6.3208897,8.1133202
-974,Naukka,Nigeria,274,17,9.6000359,7.9999721
+974,Naukka,Nigeria,274,17,,
 975,Potchefstroom,South Africa,643,9,-26.7150922,27.1013887
 976,Linz,Austria,1247,15,48.3059078,14.286198
 977,Preston,United Kingdom,109,2,53.7593363,-2.6992717
@@ -981,7 +981,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 980,Conakry,Guinea,1,1,9.5170602,-13.6998434
 981,Monrovia,Liberia,7,2,6.328034,-10.797788
 982,Morogoro,Tanzania,4,3,-7.0842931,37.4232686
-983,Sovenga,South Africa,5,2,-28.8166236,24.991639
+983,Sovenga,South Africa,5,2,,
 984,Tak,Thailand,58,3,17.1053568,98.9953943
 985,Nagaoka,Japan,450,54,37.446996,138.8512199
 986,Honolulu,United States,843,62,21.304547,-157.855676
@@ -1005,7 +1005,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1004,Roskilde,Denmark,32,3,55.6433478,12.0819247
 1005,Setif,Algeria,27,1,36.1893494,5.4046876
 1006,Niteroi,Brazil,182,6,-22.8884,-43.1147
-1007,Kinshasa,Democratic Republic Congo,1827,13,-2.9814344,23.8222636
+1007,Kinshasa,Democratic Republic Congo,1827,13,,
 1008,Bamako,Mali,190,4,12.649319,-8.000337
 1009,Galati,Romania,27,1,45.4338215,28.0549395
 1010,Zagazig,Egypt,11,2,30.5853431,31.5035127
@@ -1154,7 +1154,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1153,Wilrijk,Belgium,223,2,51.1700864,4.3942577
 1154,Bangui,Central African Republic,368,2,4.3635118,18.5835913
 1155,Ouagadougou,Burkina Faso,385,3,12.3681873,-1.5270944
-1156,Monte Blanche,Mauritius,222,1,-20.2759451,57.5703566
+1156,Monte Blanche,Mauritius,222,1,,
 1157,Omdurman,Sudan,276,4,15.6445536,32.4777311
 1158,Minya,Egypt,222,1,28.2125404,30.912374098545783
 1159,Bucaramanga,Colombia,222,1,7.16698415,-73.1047294009737
@@ -1169,7 +1169,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1168,Nitra,Slovakia,227,2,48.31295,18.0894593
 1169,Shibin Al Kawm,Egypt,222,1,30.5545106,31.0097923
 1170,Wenzhou,China,1652,9,27.9963899,120.695345
-1171,Maqabah,Bahrain,222,1,26.030093,50.553336789123236
+1171,Maqabah,Bahrain,222,1,,
 1172,Yokohama,Japan,1757,48,35.4503381,139.6343802
 1173,Tartu,Estonia,1562,16,58.3801207,26.72245
 1174,Saint-Dizier,France,222,1,48.6371125,4.9473513
@@ -1184,7 +1184,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1183,Khartoum,Sudan,390,15,15.5635972,32.5349123
 1184,Majadahonda,Spain,291,3,40.473055,-3.8724138
 1185,Poltava,Ukraine,222,1,49.8607809,33.7498787
-1186,Venjarammoodu,India,222,1,22.3511148,78.6677428
+1186,Venjarammoodu,India,222,1,,
 1187,Takasaki,Japan,222,1,36.3220984,139.0032758
 1188,Batna,Algeria,222,1,35.3384291,5.731545299000572
 1189,Tygerberg,South Africa,42,5,-33.8538143,18.5886298
@@ -1194,7 +1194,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1193,Chemnitz,Germany,55,5,50.8323531,12.918914
 1194,Haiphong,Viet Nam,55,5,20.858864,106.6749591
 1195,Haikou,China,315,18,20.0462328,110.1956502
-1196,Nakhonrachasima,Thailand,52,10,14.8971921,100.83273
+1196,Nakhonrachasima,Thailand,52,10,,
 1197,Yogyakarta,Indonesia,466,43,-7.9778384,110.36722565020224
 1198,North Shields,United Kingdom,155,5,55.0087655,-1.4471035
 1199,Surry Hills,Australia,14,1,-33.8845123,151.2100301
@@ -1209,7 +1209,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1208,Winston Salem,United States,1070,9,36.0998131,-80.2440518
 1209,Sungai Buloh,Malaysia,74,17,3.2062687,101.5800567
 1210,Bali,Indonesia,241,31,-8.2271303,115.1919203
-1211,Kitaadachi District,Japan,1081,5,36.5748441,139.2394179
+1211,Kitaadachi District,Japan,1081,5,,
 1212,Rajapalayam,India,15,4,9.4031584,77.51826437085998
 1213,Roi-Et,Thailand,0,1,15.7486448,103.7013017
 1214,Lexington,United States,1229,19,38.0464066,-84.4970393
@@ -1222,7 +1222,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1221,Sisaket,Thailand,15,6,14.9222,104.4439596
 1222,Kunitachi,Japan,14,6,35.681991,139.43624
 1223,Pau,France,1033,3,43.2957547,-0.3685668
-1224,Nakhon Ratchasrima,Thailand,1,1,14.8971921,100.83273
+1224,Nakhon Ratchasrima,Thailand,1,1,,
 1225,Fort Wayne,United States,620,17,41.0799898,-85.1386015
 1226,Norfolk,United States,2268,34,36.8493695,-76.2899539
 1227,Mount Pleasant,United States,1034,2,33.1570582,-94.9694007
@@ -1299,7 +1299,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1298,Vaddeswaram,India,16,1,16.4470335,80.6114786
 1299,Dimapur,India,4,2,25.90413785,93.7177608788519
 1300,Gaborone,Botswana,188,9,-24.6581357,25.9088474
-1301,Makale,Ethiopia,6,2,10.2116702,38.6521203
+1301,Makale,Ethiopia,6,2,,
 1302,Loei,Thailand,12,4,17.3158563,101.4638277
 1303,Fort Worth,United States,1043,4,32.753177,-97.3327459
 1304,Corte,France,23,6,42.3052904,9.1511935
@@ -1322,7 +1322,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1321,Joao Pessoa,Brazil,97,10,-7.1215981,-34.882028
 1322,Kawaguchi,Japan,31,9,35.8078228,139.7241054
 1323,Kedah,Malaysia,3,1,5.8098265,100.6715035
-1324,Nakhonnayok,Thailand,3,3,14.8971921,100.83273
+1324,Nakhonnayok,Thailand,3,3,,
 1325,Otsu,Japan,1109,3,35.0177852,135.8548122
 1326,Izumi,Japan,48,8,34.43108,135.474789
 1327,Bandar Puncak Alam,Malaysia,4,1,3.2342055,101.4258355
@@ -1358,7 +1358,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1357,Dinajpur,Bangladesh,3,1,25.6260712,88.6346228
 1358,Bogura,Bangladesh,3,1,24.8500662,89.3728431
 1359,Mymensingh,Bangladesh,3,1,24.8889305,90.3845187
-1360,Frontier,Chile,7,1,-31.7613365,-71.3187697
+1360,Frontier,Chile,7,1,,
 1361,Loudonville,United States,128,6,40.6355985,-82.2334461
 1362,Venice,Italy,163,6,45.4371908,12.3345898
 1363,Guelph,Canada,1197,19,43.5460516,-80.2493276
@@ -1403,7 +1403,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1402,Swabi,Pakistan,15,3,34.1262144,72.4743164
 1403,Amersfoort,Netherlands,6,1,52.1562499,5.3896944
 1404,Hirosaki,Japan,2155,43,40.6030543,140.4640389
-1405,Kanjanaburi,Thailand,26,5,14.8971921,100.83273
+1405,Kanjanaburi,Thailand,26,5,,
 1406,Nantong,China,6,2,31.9827896,120.8904588
 1407,Min-Hsiung,Taiwan,212,25,23.5552283,120.4316823
 1408,Distrito Federal,Mexico,0,1,19.4326296,-99.1331785
@@ -1481,7 +1481,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1480,Hong Kong SAR,Hong Kong,2,1,22.2793278,114.1628131
 1481,Lowell,United States,39,2,42.6414437,-71.3085329
 1482,Chakdara,Pakistan,12,2,34.6557106,72.0308093
-1483,Phisanulok,Thailand,98,21,14.8971921,100.83273
+1483,Phisanulok,Thailand,98,21,,
 1484,Vero Beach,United States,1,1,27.6387163,-80.3975399
 1485,Roorkee,India,151,15,29.8693496,77.8902124
 1486,Yunnan,China,0,1,25.0,102.0
@@ -1518,7 +1518,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1517,Latur,India,0,1,18.355334749999997,76.75489974062862
 1518,Sakharkherda,India,0,2,20.2056297,76.3975608
 1519,Patna,India,89,6,25.6093239,85.1235252
-1520,Bata Cabs,Malaysia,5,1,4.5693754,102.2656823
+1520,Bata Cabs,Malaysia,5,1,,
 1521,Kerala,India,1034,4,10.3528744,76.5120396
 1522,Kano,Nigeria,173,5,11.9918671,8.5303654
 1523,Research Triangle Park,United States,1082,8,35.8923773,-78.86588989367681
@@ -1534,7 +1534,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1533,Solapur,India,15,2,17.84990665,75.27632027348457
 1534,Recife,Brazil,116,7,-8.0584933,-34.8848193
 1535,Callaghan,Australia,1424,13,-32.8927988,151.7011832
-1536,Seenlasht,Pakistan,0,1,30.3308401,71.247499
+1536,Seenlasht,Pakistan,0,1,,
 1537,Terrassa,Spain,199,7,41.5629623,2.0100492
 1538,Kendari,Indonesia,21,2,-3.9918068,122.5180066
 1539,East Java,Indonesia,0,1,-7.6977397,112.4914199
@@ -1558,7 +1558,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1557,Mysore,India,39,7,12.3051828,76.6553609
 1558,Guilin,China,63,2,25.2779894,110.2910622
 1559,Foster City,United States,310,12,37.5600336,-122.2688522
-1560,Khan Kaen,Thailand,80,11,14.8971921,100.83273
+1560,Khan Kaen,Thailand,80,11,,
 1561,Sitiawan,Malaysia,1,1,4.2162318,100.6951901
 1562,Kepong,Malaysia,490,5,3.2140294,101.634842
 1563,Kashan,Iran,1031,2,33.9876533,51.4428856
@@ -1632,7 +1632,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1631,Malappuram,India,2,2,11.10684475,76.10995510466662
 1632,Ibaraki,Japan,1085,14,36.2869536,140.4703384
 1633,Kyotanabe,Japan,1033,4,34.8029175,135.760651
-1634,Ikeji-Arakeji,Nigeria,2,8,9.6000359,7.9999721
+1634,Ikeji-Arakeji,Nigeria,2,8,,
 1635,Matsuyama,Japan,1354,17,33.8395188,132.7653521
 1636,Enschede,Netherlands,104,5,52.22336325,6.870595664097989
 1637,Auburn,United States,112,10,32.6098566,-85.4807825
@@ -1683,7 +1683,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1682,Yeovil,United Kingdom,112,2,50.9420451,-2.6318629
 1683,Kuressaare,Estonia,149,2,58.2527693,22.4849207
 1684,Lehi,United States,149,2,40.3881114,-111.8486019
-1685,Kafr El-Zayat,Egypt,149,2,26.2540493,29.2675469
+1685,Kafr El-Zayat,Egypt,149,2,,
 1686,Carlisle,United Kingdom,107,1,54.8948478,-2.9362311
 1687,Aylesbury,United Kingdom,107,1,51.8161412,-0.8130383
 1688,Poole,United Kingdom,113,2,50.7179472,-1.981521
@@ -1775,7 +1775,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1774,Spokane,United States,5,4,47.6571934,-117.42351
 1775,South Tangerang,Indonesia,2,1,-6.3227016,106.7085737
 1776,Narathiwat,Thailand,5,3,6.3210758,101.5972971
-1777,Nakonratchasrima,Thailand,3,2,14.8971921,100.83273
+1777,Nakonratchasrima,Thailand,3,2,,
 1778,Culiacan,Mexico,7,1,24.7978965,-107.393395
 1779,Cranfield,United Kingdom,149,5,52.0690205,-0.6079317
 1780,Region,Myanmar,0,1,13.0143442,98.7441719
@@ -1784,7 +1784,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1783,Villenave-d'Ornon,France,47,2,44.7737872,-0.5595029
 1784,Parsippany,United States,6,4,40.8578772,-74.4259866
 1785,Kawasaki,Japan,1111,9,35.5306639,139.7037668
-1786,San Jaun,Philippines,4,1,12.7503486,122.7312101
+1786,San Jaun,Philippines,4,1,,
 1787,Sevenoaks,United Kingdom,0,1,51.27452185,0.1961165562194977
 1788,Waverly,United States,0,1,42.7258451,-92.4746033
 1789,Zaventem,Belgium,0,1,50.8806207,4.4730008
@@ -1807,7 +1807,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1806,Armidale,Australia,124,4,-30.5144881,151.6656564
 1807,Delemont,Switzerland,0,1,47.3615882,7.354445
 1808,Stuttgart,Germany,55,14,48.7784485,9.1800132
-1809,Amsterdum,Netherlands,4,1,52.2434979,5.6343227
+1809,Amsterdum,Netherlands,4,1,,
 1810,Karaj,Iran,1177,8,35.8224892,50.9904681
 1811,Saga,Japan,141,3,33.2185408,130.1296585
 1812,Omura,Japan,62,3,32.9002281,129.9585055
@@ -1840,7 +1840,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1839,Bac Lieu,Viet Nam,15,3,9.3298341,105.509946
 1840,Fountain Valley,United States,5,3,33.7038145,-117.9627349
 1841,Mansehra,Pakistan,1,1,34.3286855,73.1993125
-1842,Yung Kung,Taiwan,2,1,23.5983227,120.83537694479215
+1842,Yung Kung,Taiwan,2,1,,
 1843,Nan-Tou,Taiwan,4,2,25.0425697,121.51920766816389
 1844,Kudus,Indonesia,1,1,-6.8078233,110.8416866
 1845,Latakia,Syrian Arab Republic,1,1,35.5200185,35.7781044
@@ -1859,7 +1859,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1858,Donostia-San Sebastian,Spain,14,5,43.3224219,-1.9838889
 1859,Corunna,Spain,1038,3,43.3709703,-8.3959425
 1860,Neiva,Colombia,24,9,2.9257038,-75.2893937
-1861,Koharah,Australia,1,1,-24.7761086,134.755
+1861,Koharah,Australia,1,1,,
 1862,Hilo,United States,39,4,19.7073734,-155.08158
 1863,Bollington,United Kingdom,0,1,53.29348,-2.1107855
 1864,Gdańsk,Poland,1080,13,54.42880315,18.79832701217957
@@ -1921,7 +1921,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1920,Serdivan,Turkey,6,3,40.7604062,30.3629614
 1921,Ancona,Italy,1047,5,43.4801189,13.218727943815642
 1922,Lleida,Spain,1030,2,41.6147605,0.6267842
-1923,"Kolonia, Palikir",Federated States of Micronesia,0,1,8.6062347,151.832744331612
+1923,"Kolonia, Palikir",Federated States of Micronesia,0,1,,
 1924,Lulea,Sweden,46,4,65.5831187,22.1459535
 1925,Khyber Pakhtunkhwa,Pakistan,0,1,33.712802,71.2678805
 1926,Vadodara,India,54,3,22.2973142,73.1942567
@@ -1962,7 +1962,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1961,Kasaragod,India,1,3,12.42219635,75.19044457747756
 1962,Zhoushan,China,29,6,29.9873344,122.2030363
 1963,Pontianak,Indonesia,135,3,-0.0226903,109.3447488
-1964,Shimotsuga District,Japan,143,5,36.5748441,139.2394179
+1964,Shimotsuga District,Japan,143,5,,
 1965,Varese,Italy,2416,6,45.8397203,8.754133838056571
 1966,Garran,Australia,2,1,-35.3413973,149.1085392
 1967,Gandhinagar,India,50,3,23.2232877,72.6492267
@@ -1989,7 +1989,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1988,Troisdorf,Germany,1,1,50.8153071,7.1593271
 1989,Balmullo,United Kingdom,0,1,56.3772778,-2.926939
 1990,Plodiv,Bulgaria,0,1,42.1591869,24.749764
-1991,Prachuap Khirikhan,Thailand,3,1,14.8971921,100.83273
+1991,Prachuap Khirikhan,Thailand,3,1,,
 1992,Davao,Philippines,36,6,7.0648306,125.6080623
 1993,Wolfach,Germany,0,1,48.2985845,8.222608
 1994,Monswiller,France,0,1,48.7551151,7.3790239
@@ -2000,16 +2000,16 @@ city_id,city,country,citation_sum,p_count,lat,lon
 1999,Getafe,Spain,5,3,40.3070639,-3.7331808
 2000,Tirunelveli,India,3,1,8.702314947009855,77.56316316469707
 2001,Sivakasi,India,347,5,9.45083,77.7976686
-2002,Otwock-Cwierk,Poland,1,3,52.215933,19.134422
+2002,Otwock-Cwierk,Poland,1,3,,
 2003,Kherva,India,0,2,23.5441476,72.441342
-2004,Phoeniz,United States,1,1,39.7837304,-100.445882
+2004,Phoeniz,United States,1,1,,
 2005,Toki,Japan,0,1,35.3524854,137.1834191
 2006,Oklahoma City,United States,1074,10,35.4729886,-97.5170536
 2007,Dhahran,Saudi Arabia,70,5,26.2966528,50.1202146
 2008,Bolpur,India,0,1,23.661154,87.6962424
 2009,Bahir Dar,Ethiopia,0,1,11.5949663,37.3882251
 2010,Jounieh,Lebanon,6,3,33.9741506,35.6200633
-2011,Jal Eddib,Lebanon,0,1,40.375713,-76.4626118
+2011,Jal Eddib,Lebanon,0,1,,
 2012,Assomada,Cape Verde,0,1,15.097635,-23.6668745
 2013,Cavite City,Philippines,0,1,14.4833969,120.9088359
 2014,Vallejo,United States,62,3,38.1040864,-122.2566367
@@ -2021,19 +2021,19 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2020,Gaithersburg,United States,108,5,39.1399187,-77.1929215
 2021,Halle,Germany,1030,3,51.4825041,11.9705452
 2022,Zabol,Iran,11,2,31.0277779,61.4948211
-2023,"Bangjak, Prakanong, Bangkok",Thailand,0,1,14.8971921,100.83273
+2023,"Bangjak, Prakanong, Bangkok",Thailand,0,1,,
 2024,Be’er Ya’akov,Israel,0,1,31.9443532,34.8398648
 2025,Lowestoft,United Kingdom,33,3,52.4766308,1.7537638
-2026,Mae Sod,Thailand,70,5,14.8971921,100.83273
+2026,Mae Sod,Thailand,70,5,,
 2027,Zhytomyr,Ukraine,30,4,50.9080532,28.3867504
 2028,Goiania,Brazil,77,6,-16.680882,-49.2532691
-2029,Famagusta,Turkey,0,1,38.9597594,34.9249653
+2029,Famagusta,Turkey,0,1,,
 2030,Nashua,United States,6,2,42.7656251,-71.4677032
 2031,Bielefeld,Germany,38,4,52.0191005,8.531007
 2032,Pocatello,United States,30,5,42.8620287,-112.450627
 2033,Cholula,Mexico,36,4,20.743333,-98.502222
 2034,Bydgoszcz,Poland,118,8,53.12971265,18.02944875572119
-2035,Kiriat Ono,Israel,44,5,30.8124247,34.8594762
+2035,Kiriat Ono,Israel,44,5,,
 2036,Yangling,China,1047,4,31.7574228,105.7158051
 2037,Talca,Chile,4,2,-35.4265343,-71.6660322
 2038,Rohtak,India,5,2,28.9010899,76.5801935
@@ -2094,9 +2094,9 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2093,Rozzano,Italy,288,7,45.3829973,9.1545305
 2094,Maryville,United States,0,1,40.3460468,-94.8723858
 2095,Phuket,Thailand,108,13,7.9366015,98.3529292
-2096,"Bata Cabs, Selangor",Malaysia,0,1,4.5693754,102.2656823
+2096,"Bata Cabs, Selangor",Malaysia,0,1,,
 2097,Rajouri,India,2,1,33.3772495,74.3132332
-2098,Kangham-Gu,South Korea,3,2,36.638392,127.6961188
+2098,Kangham-Gu,South Korea,3,2,,
 2099,Goyangsi,South Korea,3,1,37.6649501,126.7766636
 2100,Tosu,Japan,0,1,33.3778536,130.5061966
 2101,Al Madinah,Yemen,0,1,15.980868,43.196105
@@ -2112,7 +2112,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2111,Mantova,Italy,15,1,45.1692628,10.670836515673878
 2112,Golnik,Slovenia,15,1,46.2941397,15.6230674
 2113,Luxembourg,Luxembourg,1079,3,49.6112768,6.129799
-2114,Padermo Dugnano,Italy,15,1,42.6384261,12.674297
+2114,Padermo Dugnano,Italy,15,1,,
 2115,Borstel,Germany,1045,3,53.9692357,9.7978288
 2116,Langen,Germany,15,1,49.9927036,8.6671682
 2117,Cartagena,Colombia,15,1,10.4265566,-75.5441671
@@ -2255,7 +2255,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2254,Puerto Montt,Chile,10,1,-41.471798,-72.9395915
 2255,Lviv,Ukraine,30,3,49.841952,24.0315921
 2256,and Las Vegas,United States,0,1,36.3034244,-115.6801519
-2257,Tuyong,Thailand,0,1,14.8971921,100.83273
+2257,Tuyong,Thailand,0,1,,
 2258,Bang len,Thailand,0,1,13.8484934,100.4366748
 2259,West Chester,United States,2,1,39.9597213,-75.6059638
 2260,Tan Hiep Ward,Viet Nam,2,1,10.7716335,106.6272497
@@ -2268,12 +2268,12 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2267,Surrey,United Kingdom,19,2,51.2715316,-0.3414523511290909
 2268,Pennington,United States,2,2,48.0513335,-96.0829271
 2269,Commack,United States,0,1,40.8428759,-73.2928943
-2270,Mittelhausen,Switzerland,0,1,46.7985624,8.2319736
+2270,Mittelhausen,Switzerland,0,1,,
 2271,"Bangrak, Bangkok",Thailand,1,2,13.71325208376654,100.51512220047812
 2272,Selinsgrove,United States,2,2,40.8062437,-76.8607084
 2273,Nashik,India,0,1,20.0112475,73.7902364
 2274,Buldana,India,0,1,20.562845000000003,76.40869861474177
-2275,Itapetining,Brazil,1,1,-10.3333333,-53.2
+2275,Itapetining,Brazil,1,1,,
 2276,Naawan,Philippines,1,1,8.4336209,124.2909727
 2277,Mountain Brook,United States,6,1,33.5019459,-86.7556834
 2278,Vernier,Switzerland,6,1,46.2131843,6.0815756
@@ -2330,13 +2330,13 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2329,Penafiel,Portugal,6,1,41.2061892,-8.2855653
 2330,VIBO VALENTIA,Italy,6,1,38.6266556,16.098693458946357
 2331,Lugano,Switzerland,33,3,46.0050102,8.9520281
-2332,A CoruÃ±a,Spain,6,1,39.3260685,-4.8379791
+2332,A CoruÃ±a,Spain,6,1,,
 2333,Vladimir,Russian Federation,6,1,56.1288899,40.4075203
 2334,Cesena,Italy,6,1,44.136352,12.2422442
 2335,Piacenza,Italy,6,1,44.8476352,9.666531257696896
 2336,Giannitsa,Greece,6,1,40.79304,22.411477
 2337,Cuneo,Italy,6,1,44.45807035,7.558136691151624
-2338,BraganÃ§a,Portugal,6,1,39.6621648,-8.1353519
+2338,BraganÃ§a,Portugal,6,1,,
 2339,Kavala,Greece,6,1,40.9369224,24.4122766
 2340,Chieti,Italy,1036,2,42.10269285,14.41590530501923
 2341,Zinder,Niger,6,1,13.8063421,8.9891659
@@ -2376,9 +2376,9 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2375,Verdellino,Italy,6,1,45.6031356,9.6156095
 2376,Terni,Italy,105,7,42.6539486,12.439652829139408
 2377,Molfetta,Italy,6,1,41.1992456,16.5968279
-2378,SÃ£o JosÃ© dos Campos,Brazil,6,1,-10.3333333,-53.2
+2378,SÃ£o JosÃ© dos Campos,Brazil,6,1,,
 2379,Wetzlar,Germany,6,1,50.5525346,8.5074406
-2380,Ciudad de MÃ©xico,Mexico,6,1,19.4326296,-99.1331785
+2380,Ciudad de MÃ©xico,Mexico,6,1,,
 2381,Peschiera del Garda,Italy,6,1,45.4389454,10.6920171
 2382,Vittorio Veneto,Italy,6,1,45.9896648,12.2964361
 2383,Mozyr,Belarus,6,1,52.0475482,29.2667179
@@ -2386,7 +2386,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2385,Urduliz,Spain,6,1,43.3730856,-2.9483534
 2386,Ponta Grossa,Brazil,6,1,-25.0891685,-50.1601812
 2387,Civita Castellana,Italy,6,1,42.295226,12.40917
-2388,Krakaw,Poland,6,1,52.215933,19.134422
+2388,Krakaw,Poland,6,1,,
 2389,"Aviano, Rome",Italy,6,1,41.78161335,12.3508667
 2390,Cuenca,Ecuador,6,1,-2.8974072,-79.0041726
 2391,Gimhae,South Korea,445,4,35.2310947,128.8908228
@@ -2397,14 +2397,14 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2396,Melzo,Italy,6,1,45.4985848,9.4242513
 2397,Cosenza,Italy,6,1,39.5966853,16.333055599019605
 2398,VITTORIO VENETO,Italy,6,1,45.9896648,12.2964361
-2399,Ciudad AutÃ3noma de Buenos Aires,Argentina,6,1,-34.9964963,-64.9672817
+2399,Ciudad AutÃ3noma de Buenos Aires,Argentina,6,1,,
 2400,Manresa,Spain,6,1,41.7288939,1.8286765
 2401,Mestre,Italy,6,1,45.4943063,12.2418053
 2402,Vila Nova de Gaia,Portugal,6,1,41.1300103,-8.6058415
 2403,Riccione,Italy,6,1,43.998274,12.6474368
 2404,Piraeus,Greece,6,1,37.9431594,23.6470593
 2405,Forli,Italy,6,1,44.2227278,12.041273
-2406,Sant Joan DespÃ,Spain,6,1,39.3260685,-4.8379791
+2406,Sant Joan DespÃ,Spain,6,1,,
 2407,Pawi,Ethiopia,6,1,11.3250129,36.4088012
 2408,Catanduva,Brazil,6,1,-21.1331035,-48.9712817
 2409,Bolzano,Italy,1112,5,46.65594545,11.23021287087526
@@ -2413,7 +2413,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2412,San Benedetto del Tronto,Italy,6,1,42.9525328,13.8807144
 2413,Putyla,Ukraine,6,1,47.99515,25.08453
 2414,Hadera,Israel,1362,2,32.43699,34.9198258
-2415,Bho Ploi,Thailand,0,1,14.8971921,100.83273
+2415,Bho Ploi,Thailand,0,1,,
 2416,Inashiki District,Japan,0,1,35.989816,140.2654674
 2417,San Juan City,Philippines,8,2,15.0222407,120.6768456
 2418,Mathura,India,127,6,27.4955539,77.6855554
@@ -2446,7 +2446,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2445,Greenfield,United States,16,2,42.5876342,-72.6002068
 2446,Esfarāyen,Iran,3,1,37.0750975,57.5096169
 2447,Yantai,China,3,1,37.461928,121.4425255
-2448,"Klong Gleua, Pakkred Nonthaburi",Thailand,0,1,14.8971921,100.83273
+2448,"Klong Gleua, Pakkred Nonthaburi",Thailand,0,1,,
 2449,Neijiang,China,1,1,29.5827261,105.054491
 2450,La-Réunion,France,0,1,-21.1309332,55.5265771
 2451,Itajuba,Brazil,1,1,-22.4238234,-45.4524156
@@ -2526,7 +2526,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2525,Minden-Pulau Pinang,Malaysia,32,1,5.3624194,100.30365245565372
 2526,I-Roma,Italy,116,2,41.8933203,12.4829321
 2527,Bac Lieu City,Viet Nam,6,1,10.7784526,106.6725978
-2528,Pathumtani,Thailand,189,15,14.8971921,100.83273
+2528,Pathumtani,Thailand,189,15,,
 2529,Savannah,United States,40,2,32.0790074,-81.0921335
 2530,Krasnoyarsk,Russian Federation,72,2,56.0091173,92.872586
 2531,Fitzroy,Australia,227,3,-37.8010382,144.9792611
@@ -2543,7 +2543,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2542,Commerce,Pakistan,89,3,27.493489250000003,68.76444388783389
 2543,Jenin,Palestine,64,1,32.4673321063489,35.29337885387854
 2544,Warren,United States,45,1,41.8119602,-79.2654452
-2545,Bhuvaneswar,India,45,1,22.3511148,78.6677428
+2545,Bhuvaneswar,India,45,1,,
 2546,Boxmeer,Netherlands,20,2,51.6486483,5.9450972
 2547,Iksan,South Korea,1111,5,35.9479291,126.9578025
 2548,Westerville,United States,8,1,40.126139,-82.9295287
@@ -2556,7 +2556,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2555,Jackson,United States,390,28,32.2998686,-90.1830408
 2556,Samut Songkhram,Thailand,23,5,13.3576862,99.9619685
 2557,Framingham,United States,15,2,42.2773177,-71.4165905
-2558,"Pakchong, Nakhonratchasima",Thailand,5,2,14.8971921,100.83273
+2558,"Pakchong, Nakhonratchasima",Thailand,5,2,,
 2559,Westwood,United States,1072,2,34.0668947,-118.439944
 2560,Alpharetta,United States,42,1,34.0709576,-84.2747329
 2561,Neuville-sur-Oise,France,52,1,49.0135534,2.0623676
@@ -2569,12 +2569,12 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2568,Summit,United States,32,4,41.1457902,-81.5333603
 2569,Prasat,Thailand,0,1,14.3927624,103.1358801
 2570,Patum Thani,Thailand,230,10,14.048667,100.5640405
-2571,Charlotte (Skidegate),United States,0,1,39.7837304,-100.445882
+2571,Charlotte (Skidegate),United States,0,1,,
 2572,Greenwood,United States,83,2,37.8709542,-96.2471338
 2573,Torbat-e Heydarieh,Iran,9,2,35.2740853,59.2194494
 2574,High Wycombe,United Kingdom,3,1,51.6317449,-0.75596
 2575,Breda,Netherlands,3,1,51.5887845,4.7760237
-2576,Dong Nai Provine,Viet Nam,4,1,15.9266657,107.9650855
+2576,Dong Nai Provine,Viet Nam,4,1,,
 2577,Blanes,Spain,74,3,41.6756178,2.7932391
 2578,Tegucigalpa,Honduras,237,6,14.1057433,-87.2040052
 2579,Hradec Kralove,Czech Republic,1207,4,50.2092113,15.8327512
@@ -2588,7 +2588,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2587,Rueil-Malmaison,France,6,1,48.87778,2.1802832
 2588,Waalre,Netherlands,695,15,51.3856734,5.466115689689311
 2589,"Wang Thonglang, Bangkok",Thailand,4,1,13.7678209,100.598274
-2590,"Bangkorlhaem, Bangkok",Thailand,4,1,14.8971921,100.83273
+2590,"Bangkorlhaem, Bangkok",Thailand,4,1,,
 2591,Gangneung,South Korea,355,2,37.7525313,128.8759523
 2592,Orangeburg,United States,1040,3,33.4918203,-80.8556476
 2593,Rockledge,United States,12,1,28.330831,-80.7349162
@@ -2601,7 +2601,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2600,Merseburg,Germany,0,1,51.3564413,11.996148
 2601,Pitesti,Romania,47,3,44.8572343,24.8719422
 2602,Wangdue Phodrang,Bhutan,3,2,27.4883053,89.9006295
-2603,Situbondo Regency,Indonesia,17,1,-2.4833826,117.8902853
+2603,Situbondo Regency,Indonesia,17,1,,
 2604,Rutgers,United States,27,1,40.492977800000006,-74.44510808059266
 2605,Hadiya,Kuwait,80,1,29.14457575,48.09193905959076
 2606,Chiayi,Taiwan,1114,3,23.4591664,120.2930004
@@ -2628,7 +2628,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2627,Herne,Germany,21,1,51.5380394,7.219985
 2628,Sterling,United States,122,1,31.8151416,-101.0452671
 2629,Gandra,Portugal,3,1,41.7810462,-8.4978034
-2630,Nakornpathom,Thailand,10,1,14.8971921,100.83273
+2630,Nakornpathom,Thailand,10,1,,
 2631,Sunto District,Japan,17,1,35.1661384,138.8753158
 2632,Utsunomiya,Japan,17,1,36.5549677,139.8828776
 2633,Highland Heights,United States,0,1,39.0330902,-84.4521512
@@ -2638,7 +2638,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2637,Estoril,Portugal,4,1,38.70957065,-9.390136815849148
 2638,Hermagor,Austria,76,3,46.7046314,14.146153399999996
 2639,Gorontalo,Indonesia,1,1,0.7186174,122.4555927
-2640,Konkaen,Thailand,18,5,14.8971921,100.83273
+2640,Konkaen,Thailand,18,5,,
 2641,Leidschendam,Netherlands,103,3,52.0861654,4.3946774
 2642,Sa,Viet Nam,8,1,20.7916648,106.5512607
 2643,Rock Hill,United States,10,1,34.9248667,-81.0250784
@@ -2688,7 +2688,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2687,Saratov,Russian Federation,36,1,51.530018,46.034683
 2688,Stord,Norway,7,1,59.82502055,5.488370639966453
 2689,Nizwa,Oman,23,2,22.9323884,57.5311
-2690,Rajadevi,Thailand,12,2,14.8971921,100.83273
+2690,Rajadevi,Thailand,12,2,,
 2691,Ohkawa,Japan,1,1,35.6779441,139.6777543
 2692,Sohag,Egypt,2,1,26.76246285,32.090993613434186
 2693,Damanhour,Egypt,150,3,31.0374982,30.4710625
@@ -2714,7 +2714,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2713,Arlesheim,Switzerland,335,1,47.4931125,7.6202048
 2714,Krishnagiri,India,37,2,12.51520745,78.00937692782514
 2715,Pathumwan,Thailand,8,1,13.7482977,100.52584733414872
-2716,Nonthaburee,Thailand,1,2,14.8971921,100.83273
+2716,Nonthaburee,Thailand,1,2,,
 2717,Nha Trang,Viet Nam,16,1,12.2431693,109.1898675
 2718,My Tho City,Viet Nam,24,3,10.35825555,106.3595560491262
 2719,Rockhampton,Australia,9,1,-23.3782137,150.5134227
@@ -2740,8 +2740,8 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2739,Vellakulam,India,31,1,10.5017225,79.5951673
 2740,Bhaktapur,Nepal,2,1,27.704332,85.452118
 2741,Morehead,United States,0,1,38.1839705,-83.4326841
-2742,Barceona,Spain,12,1,39.3260685,-4.8379791
-2743,Bata Caves,Malaysia,22,2,4.5693754,102.2656823
+2742,Barceona,Spain,12,1,,
+2743,Bata Caves,Malaysia,22,2,,
 2744,Ludwigshafen,Germany,31,3,49.4704113,8.4381568
 2745,Orono,United States,105,2,44.883607,-68.672791
 2746,Nakorn-Ratchasima,Thailand,2,1,14.884424500000002,101.90462924870856
@@ -2751,12 +2751,12 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2750,Gold Coast,Australia,31,3,-28.0023731,153.4145987
 2751,Palangka Raya,Indonesia,0,1,-2.2072919,113.9164372
 2752,Komotini,Greece,1300,4,41.1182,25.4035708
-2753,"Ratchathewi, Bangok",Thailand,21,1,14.8971921,100.83273
+2753,"Ratchathewi, Bangok",Thailand,21,1,,
 2754,Dessau-Rosslau,Germany,39,2,51.8465924,12.2312238
 2755,Williamstown,United States,28,1,42.7135472,-73.2094566
 2756,Pilani,India,11,1,28.3622661,75.6042342
 2757,"Yezin, Nay Pyi Taw",Myanmar,2,1,19.8444352,96.2610322
-2758,Şlrnak,Turkey,23,1,38.9597594,34.9249653
+2758,Şlrnak,Turkey,23,1,,
 2759,List,Germany,28,2,55.0177399,8.4359967
 2760,Liberec,Czech Republic,39,2,50.7702648,15.0583947
 2761,Sudbury,Canada,1,1,46.49272,-80.991211
@@ -2768,7 +2768,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2767,Urayasu,Japan,32,2,35.6530518,139.9018495
 2768,Foz do Iguacu,Brazil,14,1,-25.5304023,-54.5830692
 2769,Duluth,United States,4,2,46.7729322,-92.1251218
-2770,Nakorn Nayok,Thailand,9,1,14.8971921,100.83273
+2770,Nakorn Nayok,Thailand,9,1,,
 2771,West Sacramento,United States,1,1,38.5804609,-121.530234
 2772,California,United States,180,7,36.7014631,-118.755997
 2773,Westbrook,United States,5,1,43.6763036,-70.3663874
@@ -2781,7 +2781,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2780,Ho Chi Minh Chi City,Viet Nam,0,1,10.7763897,106.7011391
 2781,Lower Hutt,New Zealand,22,2,-41.2125751,174.9057626
 2782,Farmington,United States,14,2,44.6402434,-93.1435497
-2783,Nay Phi Tau,Myanmar,21,1,17.1750495,95.9999652
+2783,Nay Phi Tau,Myanmar,21,1,,
 2784,Hjorring,Denmark,42,1,57.457183,9.9855998
 2785,Redlands,United States,74,3,34.0550328,-117.1827445
 2786,Mendoza,Argentina,1046,2,-34.787093049999996,-68.43818677312292
@@ -2796,7 +2796,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2795,Libourne,France,8,1,44.9133742,-0.2427217
 2796,Khao Khitchakut,Thailand,1,1,12.7983987,102.1163791
 2797,Bor Rai,Thailand,1,1,8.31260065,98.26761352813767
-2798,Lamsing,Thailand,1,1,14.8971921,100.83273
+2798,Lamsing,Thailand,1,1,,
 2799,Ilorin,Nigeria,148,2,8.4963657,4.5480484
 2800,Corciano,Italy,6,2,43.1290269,12.287718
 2801,Gubbio,Italy,6,2,43.3517605,12.5772959
@@ -2822,7 +2822,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2821,Eberswalde,Germany,46,1,52.8350807,13.7996542
 2822,"My Tho city, Tien Giang",Viet Nam,3,1,10.35825555,106.3595560491262
 2823,Seki,Japan,0,1,35.4958031,136.9181482
-2824,Şo srnak,Turkey,29,1,38.9597594,34.9249653
+2824,Şo srnak,Turkey,29,1,,
 2825,Somerville,United States,1,1,42.3875968,-71.0994968
 2826,Frankfurt a.M,Germany,1,1,50.1106444,8.6820917
 2827,Lokoja,Nigeria,25,1,7.802355,6.7430327
@@ -2875,7 +2875,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2874,Bangrak,Thailand,0,1,13.72718465,100.51412114802054
 2875,Oberkochen,Germany,3,1,48.7840324,10.1060512
 2876,Fort Portal,Uganda,41,1,0.6561907,30.2779432
-2877,Borne,Bhutan,6,1,27.549511,90.5119273
+2877,Borne,Bhutan,6,1,,
 2878,Porrentruy,Switzerland,54,2,47.4171297,7.0761342
 2879,St. Catharines,Canada,7,1,43.1579812,-79.2441003
 2880,Klerksdorp,South Africa,17,1,-26.8625383,26.6656814
@@ -2897,14 +2897,14 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2896,Spartanburg,United States,1032,2,34.9498007,-81.9320157
 2897,Gabes,Tunisia,6,1,33.8878082,10.10044
 2898,Cheyyar,India,52,1,12.6563891,79.5404577
-2899,L eogâne,Haiti,5,1,19.1399952,-72.3570972
+2899,L eogâne,Haiti,5,1,,
 2900,Batumi,Georgia,330,1,41.6241427,41.6249897328339
 2901,Arkhangelsk,Russian Federation,330,1,64.543022,40.537121
 2902,Edirne,Turkey,330,1,41.6759327,26.5587225
 2903,Basking Ridge,United States,335,2,40.7064088,-74.5492725
 2904,Sverdlovsk,Russian Federation,330,1,56.839104,60.60825
 2905,Stade,Germany,2,1,53.599794,9.475438
-2906,"Klongtoey, Bangkok",Thailand,0,1,14.8971921,100.83273
+2906,"Klongtoey, Bangkok",Thailand,0,1,,
 2907,Reggio Calabria,Italy,16,1,38.1035389,15.6397556
 2908,Minas Gerais,Brazil,1,1,-18.5264844,-44.1588654
 2909,Ede,Nigeria,25,1,7.733333,4.433333
@@ -2912,7 +2912,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2911,Muak Lek,Thailand,2,1,14.6512518,101.1994149
 2912,Sadat City,Egypt,1030,1,30.3652517,30.5075715
 2913,Laval,Canada,1030,1,45.60558895,-73.73456014508847
-2914,Craova,Romania,1030,1,45.9852129,24.6859225
+2914,Craova,Romania,1030,1,,
 2915,Viterbo,Italy,1030,2,42.492952200000005,11.948813551650236
 2916,Toon,Japan,1030,1,33.7908821,132.8718965
 2917,Faridabad,India,1030,1,28.4031478,77.3105561
@@ -2937,7 +2937,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2936,Amarillo,United States,1030,1,35.20729,-101.8371192
 2937,White Plains,United States,1030,1,41.0339862,-73.7629097
 2938,Doylestown,United States,1030,1,40.3100446,-75.1304588
-2939,Camerimo,Italy,1030,1,42.6384261,12.674297
+2939,Camerimo,Italy,1030,1,,
 2940,"Moncton, New Brunswick,",Canada,1030,1,46.0985679,-64.8004265
 2941,Besancon,France,1042,2,47.2380222,6.0243622
 2942,Leon,Spain,1030,1,42.5989995,-5.5682413
@@ -2996,7 +2996,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 2995,Madang,Papua New Guinea,8,1,-5.0,145.5
 2996,Okemos,United States,121,2,42.7221021,-84.4275259
 2997,Crete,Italy,20,2,40.9778819,14.9355369
-2998,San Luis Potos,Mexico,8,1,19.4326296,-99.1331785
+2998,San Luis Potos,Mexico,8,1,,
 2999,Rishikesh,India,5,1,30.1086537,78.2916193
 3000,Manassas,United States,38,1,38.7509488,-77.4752667
 3001,Mishima,Japan,38,1,35.1185376,138.9184438
@@ -3015,12 +3015,12 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3014,Mihintale,Sri Lanka,17,1,8.347538,80.5126963
 3015,Chía,Colombia,17,1,4.8660334,-74.0306281
 3016,Kadhava,India,17,1,21.541413650000003,76.9672381674201
-3017,Popoyán,Colombia,17,1,4.099917,-72.9088133
+3017,Popoyán,Colombia,17,1,,
 3018,Goroka,Papua New Guinea,2,1,-6.0730028,145.3932891
 3019,Elmhurst,United States,0,1,41.8994745,-87.9403418
 3020,Bangpa-In Ayutthaya,Thailand,0,1,14.1972659,100.5872980162481
 3021,Ramadi,Iraq,32,2,33.4259859,43.2999218
-3022,Vandoeouvre-les-Nancy,France,38,2,46.603354,1.8883335
+3022,Vandoeouvre-les-Nancy,France,38,2,,
 3023,Dong Nai Province,Viet Nam,1,1,11.0355624,107.1881076
 3024,The Woodlands,United States,47,2,30.1734194,-95.504686
 3025,Matamoros,Mexico,45,1,25.8810158,-97.5064866
@@ -3058,14 +3058,14 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3057,Bondy,France,68,2,48.9031,2.48291
 3058,Jongno-gu,South Korea,17,1,37.5806949,126.9827989
 3059,Baoji,China,76,2,34.3609713,107.2322378
-3060,Khannayao,Thailand,18,1,14.8971921,100.83273
+3060,Khannayao,Thailand,18,1,,
 3061,Observatory,South Africa,26,2,-33.9369444,18.4683333
 3062,Port Harcourt,Nigeria,158,2,4.7676576,7.0188527
 3063,Sandton,South Africa,30,1,-26.1045525,28.0545147
 3064,Chernogolovka,Russian Federation,616,1,56.0061165,38.3835224
-3065,Feusiberg,Switzerland,616,1,46.7985624,8.2319736
+3065,Feusiberg,Switzerland,616,1,,
 3066,Pakkret,Thailand,1,1,13.91533,100.4946496
-3067,Yenchao,Taiwan,25,2,23.5983227,120.83537694479215
+3067,Yenchao,Taiwan,25,2,,
 3068,Chumporn,Thailand,0,1,8.582745150000001,98.24705370483797
 3069,Nakorn Ratchasima,Thailand,95,3,14.884424500000002,101.90462924870856
 3070,Toyota,Japan,3,2,35.0834524,137.156737
@@ -3092,7 +3092,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3091,Hyderabad-Telangana,India,47,1,17.360589,78.4740613
 3092,Krishna,India,47,1,16.21277,81.03069575082347
 3093,Kon Kaen,Thailand,67,2,16.0253579,103.6067755
-3094,Mahasarakarm,Thailand,44,1,14.8971921,100.83273
+3094,Mahasarakarm,Thailand,44,1,,
 3095,Maisons-Alfort,France,13,2,48.8012045,2.4309703
 3096,Sandy Bay,Australia,5,1,-42.897129,147.3273528
 3097,Trissur,India,3,1,10.41305481098446,76.17868961921563
@@ -3122,15 +3122,15 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3121,Adam Barka,Chad,146,1,13.8231096,20.8067724
 3122,Mombasa,Kenya,146,1,-4.05052,39.667169
 3123,Beira,Mozambique,146,1,-19.828707,34.841782
-3124,Stockholn,Sweden,146,1,59.6749712,14.5208584
-3125,"Siteki, Eswatini",Swaziland,146,1,-26.5624806,31.3991317
+3124,Stockholn,Sweden,146,1,,
+3125,"Siteki, Eswatini",Swaziland,146,1,,
 3126,Luanda,Angola,146,1,-8.8272699,13.2439512
 3127,Dar Es Salaam,Tanzania,149,2,-6.8160837,39.2803583
-3128,Lubumbashi,Democratic Republic Congo,146,1,-2.9814344,23.8222636
+3128,Lubumbashi,Democratic Republic Congo,146,1,,
 3129,Calabar,Nigeria,146,1,4.9795999,8.3373597
 3130,Kamloops,Canada,7,1,50.6758269,-120.339415
 3131,Semnan,Iran,36,1,35.3843145,54.6209302
-3132,Sayo District,Japan,6,1,36.5748441,139.2394179
+3132,Sayo District,Japan,6,1,,
 3133,Valence,France,6,1,44.9332277,4.8920811
 3134,Sakakah,Saudi Arabia,5,1,29.9784008,40.2047701
 3135,Downderry,United Kingdom,15,1,50.3619837,-4.3706938
@@ -3162,7 +3162,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3161,Maraba,Brazil,0,1,-5.3462821,-49.1007401
 3162,Neuchatel,Switzerland,9,1,46.9895828,6.9292641
 3163,Cao Lãnh City,Viet Nam,3,1,15.987059586803268,108.23577628664157
-3164,Campus,Pakistan,21,1,30.3308401,71.247499
+3164,Campus,Pakistan,21,1,,
 3165,Colleferro,Italy,24,1,41.727033,13.0041576
 3166,Tuscaloosa Northport,United States,16,1,33.218226099999995,-87.61046389465531
 3167,Luang Prabang Province,Laos,3,1,20.2115415,102.612684
@@ -3201,13 +3201,13 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3200,Cumming,United States,6,1,34.2073196,-84.1401926
 3201,Oberwil-Zug,Switzerland,16,1,47.1489616,8.5087672
 3202,Chicoutimi-Jonquiere,Canada,16,1,48.3370248,-71.12352613559267
-3203,Rahim Yar Kahn,Pakistan,26,1,30.3308401,71.247499
+3203,Rahim Yar Kahn,Pakistan,26,1,,
 3204,Ivano-Frankivsk,Ukraine,43,1,48.7481718,24.5207477
 3205,Brumunddal,Norway,19,1,60.884916,10.9418392
 3206,"Roma, Napoli",Italy,19,1,40.8506762,14.2686013
 3207,Phuentsholing,Bhutan,5,1,26.8639605,89.3837363
 3208,Qinzhou,China,3,1,34.5797531,105.7062921
-3209,Ann Town,Myanmar,5,1,17.1750495,95.9999652
+3209,Ann Town,Myanmar,5,1,,
 3210,Dwingeloo,Netherlands,24,1,52.8333073,6.3669053
 3211,Westford,United States,24,1,42.5792583,-71.4378411
 3212,Saclay,France,22,1,48.7305162,2.172576
@@ -3222,7 +3222,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3221,Byurakan,Armenia,8,1,40.3387135,44.2688648
 3222,Bartlesville,United States,30,1,36.7421089,-95.9528877
 3223,Zallaq,Bahrain,21,1,26.0484553,50.4869845
-3224,Chang-Hua,China,26,1,35.0000663,104.999955
+3224,Chang-Hua,China,26,1,,
 3225,Omuta,Japan,0,3,33.047013,130.464155
 3226,Billerica,United States,6,1,42.5584264,-71.268947
 3227,Irkutsk,Russian Federation,8,1,52.2891225,104.279829
@@ -3242,7 +3242,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3241,Belmont,United States,16,1,40.0057737,-81.0097516
 3242,New London,United States,57,1,41.3556187,-72.0997804
 3243,Songkhla Province,Thailand,7,1,6.8790221,100.5498542
-3244,"Pakchong, Nakorn Ratchasima",Thailand,90,1,14.8971921,100.83273
+3244,"Pakchong, Nakorn Ratchasima",Thailand,90,1,,
 3245,Hvidovre,Denmark,9,1,55.6644909,12.4750154
 3246,Cairns,Australia,9,1,-16.9206657,145.7721854
 3247,Chaidari,Greece,9,1,38.0070659,23.6563151
@@ -3253,7 +3253,7 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3252,Malacca Town,Malaysia,12,1,2.1958865000000003,102.25076574854086
 3253,Anseong,South Korea,20,1,37.007773,127.279971
 3254,Buies Creek,United States,6,1,35.412332500000005,-78.73665059608209
-3255,Tetovo North,North Macedonia,6,1,41.6171214,21.7168387
+3255,Tetovo North,North Macedonia,6,1,,
 3256,Chattanooga,United States,6,1,35.0457219,-85.3094883
 3257,Biddeford,United States,6,1,43.4925843,-70.4533844
 3258,Kosovska Mitrovica,Serbia,6,1,44.985628056141636,19.63283698130405
@@ -3264,10 +3264,10 @@ city_id,city,country,citation_sum,p_count,lat,lon
 3263,Sunspot,United States,16,1,32.7892103,-105.81857
 3264,Mount Hamilton,United States,16,1,37.3418834,-121.6430017
 3265,Laxenburg,Austria,281,2,48.0686831,16.3561206
-3266,Nakhompathon,Thailand,9,1,14.8971921,100.83273
+3266,Nakhompathon,Thailand,9,1,,
 3267,Tenri,Japan,6,1,34.5965738,135.8373696
 3268,Meru,Kenya,6,1,0.2254509,37.77726237163694
-3269,Damaturu Yobe State,Nigeria,6,1,9.6000359,7.9999721
+3269,Damaturu Yobe State,Nigeria,6,1,,
 3270,Yilan,Taiwan,0,1,24.7519538,121.7533344
 3271,Daito,Japan,26,1,34.7120151,135.6235341
 3272,Tours,France,118,1,47.3900474,0.6889268
