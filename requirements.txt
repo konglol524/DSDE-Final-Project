@@ -10,3 +10,4 @@ geopy
 pycountry
 spacy
 fuzzywuzzy
+timezonefinder
