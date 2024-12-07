@@ -12,3 +12,4 @@ spacy
 fuzzywuzzy
 timezonefinder
 folium
+bokeh
