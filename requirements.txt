@@ -13,4 +13,4 @@ fuzzywuzzy
 timezonefinder
 folium
 bokeh
-sklearn
+scikit-learn
