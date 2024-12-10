@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+from ml import preprocess_data, evaluate_features_with_stratified_sampling
+import joblib
 
 
 # Load HTML content
@@ -19,6 +21,8 @@ def load_html_content():
     with open("city_collaboration_map.html", "r", encoding="utf-8") as f:
         html_data_geo = f.read()
 
+    with open("city_collaboration_network.html", "r", encoding="utf-8") as f:
+        html_data_network = f.read()
     with open("city_collaboration_network.html", "r", encoding="utf-8") as f:
         html_data_network = f.read()
     with open("city_collaboration_network.html", "r", encoding="utf-8") as f:
@@ -314,6 +318,35 @@ def analytics_page():
     )
 
 
+
+
+
+best_model = joblib.load("best_model.pkl")
+
+
+def ml_page():
+    """Machine Learning Model Section"""
+    st.title("🤖 Machine Learning Model")
+
+    # Display precomputed best model details
+
+    # Input fields for prediction
+    st.subheader("Make a Prediction")
+    input_values = {}
+    best_features = ['population', 'gdp_per_capita', 'lon', 'safety_index']
+    for feature in best_features:
+        input_values[feature] = st.number_input(f"Enter value for {feature}:", value=0.0,format="%.2f")
+    input_values['primary_language'] = st.number_input(f"Enter value for primary_language (1 if English, 0 otherwise):", value=0,max_value=1,min_value=0,step=1)
+
+
+    # Predict using the best model
+    if st.button("Predict"):
+        with st.spinner("Making prediction..."):
+            input_df = pd.DataFrame([input_values])  # Create a DataFrame for prediction
+            prediction = best_model.predict(input_df)[0]  # Get prediction
+        st.success(f"The citation average is: {prediction:.2f}")
+
+
 # Main app logic
 def main():
     # Add custom CSS to improve sidebar navigation
@@ -340,7 +373,7 @@ def main():
 
     # Sidebar navigation
     st.sidebar.title("Navigation")
-    page = st.sidebar.radio("Go to", ["Overview", "Visualizations", "Analytics"])
+    page = st.sidebar.radio("Go to", ["Overview", "Visualizations", "Analytics", "ML Model"])
 
     # Page selection
     if page == "Overview":
@@ -349,6 +382,8 @@ def main():
         visualizations_page()
     elif page == "Analytics":
         analytics_page()
+    elif page == "ML Model":
+        ml_page()
 
 
 # Run the app
