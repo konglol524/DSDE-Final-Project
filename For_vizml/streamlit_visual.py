@@ -8,11 +8,23 @@ def load_html_content():
     with open("heat_map.html", "r", encoding="utf-8") as f:
         html_data_heatmap = f.read()
 
+
+@st.cache_data
+def load_html_content():
+    with open("heat_map.html", "r", encoding="utf-8") as f:
+        html_data_heatmap = f.read()
+
+    with open("city_collaboration_map.html", "r", encoding="utf-8") as f:
+        html_data_geo = f.read()
     with open("city_collaboration_map.html", "r", encoding="utf-8") as f:
         html_data_geo = f.read()
 
     with open("city_collaboration_network.html", "r", encoding="utf-8") as f:
         html_data_network = f.read()
+    with open("city_collaboration_network.html", "r", encoding="utf-8") as f:
+        html_data_network = f.read()
+
+    return html_data_heatmap, html_data_geo, html_data_network
 
     return html_data_heatmap, html_data_geo, html_data_network
 
@@ -20,6 +32,9 @@ def load_html_content():
 # Load data
 @st.cache_data
 def load_data():
+    cocity_df = pd.read_csv("cocity.csv")
+    city_df = pd.read_csv("city.csv")
+    centrality_df = pd.read_csv("centrality_metrics.csv")
     cocity_df = pd.read_csv("cocity.csv")
     city_df = pd.read_csv("city.csv")
     centrality_df = pd.read_csv("centrality_metrics.csv")
