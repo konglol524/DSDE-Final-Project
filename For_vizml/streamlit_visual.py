@@ -32,13 +32,14 @@ def load_html_content():
 # Load data
 @st.cache_data
 def load_data():
+    papers_df = pd.read_csv("papers.csv")
     cocity_df = pd.read_csv("cocity.csv")
     city_df = pd.read_csv("city.csv")
     centrality_df = pd.read_csv("centrality_metrics.csv")
     cocity_df = pd.read_csv("cocity.csv")
     city_df = pd.read_csv("city.csv")
     centrality_df = pd.read_csv("centrality_metrics.csv")
-    return cocity_df, city_df, centrality_df
+    return cocity_df, city_df, centrality_df, papers_df
 
 
 # App configuration
@@ -161,13 +162,13 @@ st.markdown(
 )
 
 # Load data and HTML content
-cocity_df, city_df, centrality_df = load_data()
+cocity_df, city_df, centrality_df, papers_df = load_data()
 html_data_heatmap, html_data_geo, html_data_network = load_html_content()
 
 # Calculate key metrics
 total_cities = city_df["city_id"].nunique()
-total_collaborations = cocity_df["colab_count"].sum()
-total_citations = city_df["citation_sum"].sum()
+total_papers = len(papers_df["pid"])
+total_citations = papers_df["citedby_count"].sum()
 
 
 # Navigation
@@ -201,6 +202,7 @@ def overview_page():
 
     col1, col2, col3 = st.columns(3)
 
+
     with col1:
         st.metric(
             "Total Cities", total_cities, help="Number of unique cities in the dataset"
@@ -208,15 +210,15 @@ def overview_page():
 
     with col2:
         st.metric(
-            "Total Collaborations",
-            total_collaborations,
-            help="Total number of collaborative interactions",
+            "Total Papers",
+            total_papers,
+            help="Total number of academic papers in the dataset",
         )
 
     with col3:
         st.metric(
             "Total Citations",
-            total_citations,
+            int(total_citations),
             help="Cumulative citations across all cities",
         )
 
